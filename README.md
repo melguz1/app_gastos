@@ -1,16 +1,25 @@
-# app_gastos
+# Control de Gastos - Flutter App
 
-A new Flutter project.
+Una aplicación móvil desarrollada en Flutter para ayudarte a registrar y gestionar tus gastos diarios de forma simple y rápida.
 
-## Getting Started
+## 📱 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Registrar nuevos gastos con nombre, cantidad y fecha.
+- Visualización de la lista de gastos.
+- Almacenamiento local usando `SharedPreferences` (próximamente base de datos).
+- Interfaz amigable y responsiva.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Comenzando
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) 3.x instalado
+- SDK de Android o Xcode (para emuladores físicos o virtuales)
+- Visual Studio Code, Android Studio o tu editor preferido
+
+### Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/melguz1/app_gastos.git
+   cd app_gastos
